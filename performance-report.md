@@ -1,10 +1,10 @@
 # Final HTML Task — Performance Report
 
-**Intern name:** _[fill in]_
+**Intern name:** _ Khushi Soni
 **Task:** Business Landing Page (HTML)
-**Submission date:** _[fill in]_
-**Repository:** _[add your GitHub repo link after pushing — see deployment steps below]_
-**Live site:** _[add your GitHub Pages link after deploying — see deployment steps below]_
+**Submission date:** _ 7/10/26
+**Repository:** _https://github.com/khushi4620028-cpu/Business-Landing-Page.git
+**Live site:** _https://github.com/khushi4620028-cpu
 
 ## 1. Task summary
 
