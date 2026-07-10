@@ -1,6 +1,0 @@
-<svg viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Solstice Advisory">
-  <circle cx="18" cy="24" r="9" fill="#B08D57"/>
-  <path d="M4 24 A14 14 0 0 1 32 24" fill="none" stroke="#1B2430" stroke-width="2"/>
-  <text x="40" y="20" font-family="'IBM Plex Sans', Arial, sans-serif" font-size="15" font-weight="600" fill="#1B2430" letter-spacing="0.5">SOLSTICE</text>
-  <text x="40" y="36" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#4C6B87" letter-spacing="3">ADVISORY</text>
-</svg>
